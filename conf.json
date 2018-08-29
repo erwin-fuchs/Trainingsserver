@@ -1,9 +1,10 @@
 {
-	"maxplayers" : 100,
-	"name" : "RAGE:MP Unofficial server", 
-	"gamemode" : "freeroam", 
+	"maxplayers" : 50,
+	"name" : "Erwin Fuchs: Trainingsserver", 
+	"gamemode" : "efts", 
 	"stream-distance" : 500.0,
 	"announce" : false,
-	"csharp" : "disabled",
+  "csharp": "enabled",
+  "nodejs": "enabled",
 	"port": 22005
 }
